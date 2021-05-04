@@ -45,6 +45,7 @@ body {
 }
 .content-image-right p {
     font-weight: normal;
+    padding-top: 18px;
     font-size: 22px;
     line-height: 26px;
 }
